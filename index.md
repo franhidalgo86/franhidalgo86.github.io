@@ -11,3 +11,11 @@ tagline: Practica Pagina estatica Github
 ##Esta creada para la 1º practica de paguinas estaticas.
 
 
+* Crear pagina estatica
+<hr/>
+* Editar ficheros
+<hr/>
+* Usar markdown
+<hr/>
+* Colocar alguna imagen
+<hr/>
