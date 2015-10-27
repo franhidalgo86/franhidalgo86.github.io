@@ -4,10 +4,12 @@ title:
 tema: white
 ---
 ![imag.cabecera](img/escudo.png)
+
 # Nueva pagina
 
 *Creado fichero about
 <hr/>
+
 *modificacion con markdon
 <hr/>
 
