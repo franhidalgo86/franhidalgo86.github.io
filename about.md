@@ -1,5 +1,5 @@
 ---
-layout: nueva
+layout: index
 title:
 tema: white
 ---
