@@ -1,6 +1,6 @@
 ---
 layout: index
-title:
+title: Pagina nueva enlazada
 tema: white
 ---
 ![imag.cabecera](img/escudo.png)
