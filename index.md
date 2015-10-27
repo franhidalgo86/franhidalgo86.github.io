@@ -19,3 +19,5 @@ tagline: Practica Pagina estatica Github
 <hr/>
 * Colocar alguna imagen
 <hr/>
+* [Enlace a la nueva pagina](/about)
+<hr/>
