@@ -7,10 +7,10 @@ tema: white
 
 # Nueva pagina
 
-*Creado fichero about
+* Creado fichero about
 <hr/>
 
-*modificacion con markdon
+* Modificacion con markdon
 <hr/>
 
 ### Esta es la segunda pagina para la practica de, pagina estatica con github.
